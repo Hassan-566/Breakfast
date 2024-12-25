@@ -1,0 +1,48 @@
+.menu h3{
+    color: #f5802e;
+margin-top: -30px;
+text-align: center;
+font-weight: bolder;
+font-size: 50px;
+}
+.CARDSS{
+ border: 1px solid gray;  
+ border-radius: 20px; 
+}
+.CARDSS img{
+ border-top-left-radius: 20px;
+ border-top-right-radius: 20px;
+}
+
+.title{
+    margin-left: 10px;
+    font-weight: 500;
+    color: #668c00;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+}
+.desc{
+    margin-left: 10px;
+    color: #f5802e;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+
+}
+.price{
+    margin-left: 10px;
+    font-weight: lighter;
+    color: #668c00;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+
+}
+.filter ul li a{
+    display: flex;
+    justify-content: center;
+    
+}
+.btn{
+   background-color: #f5802e;
+   color: white;
+   font-family: 'Lato', sans-serif;
+}

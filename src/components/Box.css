@@ -1,0 +1,723 @@
+  /* SECTION-2-START */
+
+
+  .boxe {
+      background-color: #668c00;
+      width: 100%;
+      height: 307px;
+      margin-top: 362px;
+  }
+
+  .shap01 img {
+      width: 63px;
+      position: absolute;
+      margin-top: 130px;
+      margin-left: 55px;
+  }
+
+  .shap20 img {
+      margin-top: 91px;
+      width: 80px;
+      margin-left: 1092px;
+  }
+
+  .rw {
+      display: flex;
+      margin: 30px;
+      justify-content: center;
+      margin-top: -32px;
+  }
+
+  .rw2 {
+      margin: 20px;
+      display: flex;
+      margin: 30px;
+      justify-content: center;
+      margin-top: -32px;
+      justify-content: space-between;
+  }
+
+  .card-title {
+      margin-top: 129px;
+      color: white;
+      margin-left: -123px;
+      margin-right: 1024px;
+  }
+
+  /* .card1 .card-text{
+  color: white;
+  position: absolute;
+  margin-top: 182px;
+  margin-left: 210px;
+  
+} */
+  .card-bodys h6 {
+      color: white;
+      margin-top: 118px;
+      position: absolute;
+      margin-left: 249px;
+      font-size: 38px;
+  }
+
+  .card-bodys p {
+      color: white;
+      margin-top: 191px;
+      position: absolute;
+      margin-left: 249px;
+      font-size: 14px;
+  }
+
+  .cards2 {
+      margin-left: 322px;
+  }
+
+  .cards3 {
+      margin-left: 643px;
+  }
+
+  h1 {
+      color: white;
+      font-size: 73px;
+      position: absolute;
+      margin-top: 70px;
+      margin-left: 253px;
+      font-family: initial;
+  }
+
+  .full-width-box {
+      width: 100%;
+      background-color: #f0f0f0;
+      /* padding: 20px; */
+      margin-bottom: 20px;
+  }
+
+  .column {
+      background-color: #d4edda;
+      /* padding: 20px; */
+      margin-bottom: 20px;
+  }
+
+  /* SECTION-1-END */
+
+
+  /* SECTION-2-END */
+  .shap03 img {
+      width: 225px;
+      margin-left: 569px;
+      margin-top: 28px;
+      height: 56px;
+
+  }
+
+
+
+  .boxeS {
+      background-color: #668c00;
+      width: 100%;
+      height: 624px;
+      margin-top: 40px;
+  }
+
+  .shap04 img {
+      margin-left: 1137px;
+      width: 72px;
+  }
+
+  h3 {
+      color: white;
+      font-family: 'Lato', sans-serif;
+      font-weight: 400;
+      font-size: 33px;
+      text-align: center;
+      margin-top: 154px;
+      position: absolute;
+      margin-left: 561px;
+  }
+
+  .shap05 img {
+      width: 95px;
+      position: absolute;
+      margin-left: 115px;
+      margin-top: -23px;
+      margin-bottom: 31px;
+  }
+
+  .shap06 img {
+      margin-left: 628px;
+      width: 83px;
+
+      position: absolute;
+      margin-top: 184px;
+  }
+
+  /* ICONS */
+  .ic1 img {
+      width: 43px;
+      position: absolute;
+      margin-left: 292px;
+      margin-top: -158px;
+  }
+
+  .ic2 img {
+      width: 43px;
+      position: absolute;
+      margin-left: -60px;
+      margin-top: 16px;
+  }
+
+  .ic3 img {
+      width: 43px;
+      position: absolute;
+      margin-left: -60px;
+      margin-top: 21px;
+  }
+
+  /* TEXT */
+  .car h2 {
+      font-family: 'Amatic SC', cursive;
+      color: white;
+      font-weight: lighter;
+      font-size: 30px;
+      position: absolute;
+      margin-top: -165px;
+      margin-left: 353px;
+  }
+
+  .car p {
+      font-family: 'Amatic SC', cursive;
+      color: white;
+      position: absolute;
+      margin-top: -123px;
+      margin-left: 353px;
+  }
+
+  .car1 {
+      font-family: 'Amatic SC', cursive;
+      margin-left: 357px;
+      position: absolute;
+      margin-top: -35px;
+      /* font-size: 30px; */
+      color: white;
+  }
+
+  .car2 {
+      font-family: 'Amatic SC', cursive;
+      margin-left: 357px;
+      position: absolute;
+      margin-top: 106px;
+      color: white;
+  }
+
+  .right {
+      margin-left: 530px;
+  }
+
+  section {
+      margin-left: -19px;
+  }
+
+  .left {
+      margin-top: 281px;
+  }
+
+  .shap03 img {
+      width: 225px;
+      margin-left: 569px;
+      margin-top: 72px;
+      height: 56px;
+      position: absolute;
+  }
+
+  h6 {
+      font-family: 'Amatic SC', cursive;
+      color: #668c00;
+      font-size: 49px;
+      margin-top: 70px;
+      text-align: center;
+      margin-left: 609px;
+      position: absolute;
+  }
+
+  /* RESPONSIVE IN 810PX */
+  @media (max-width: 810px) {
+      .cards1 {
+          margin-left: -194px;
+          margin-top: 20px;
+      }
+
+      .shap01 img {
+          width: 45px;
+          position: absolute;
+          margin-top: 31px;
+      }
+
+      .cards2 {
+          margin-left: 53px;
+      }
+
+      .cards3 {
+          margin-left: 307px;
+      }
+
+      .shap20 img {
+          margin-top: 258px;
+          width: 54px;
+          margin-left: 735px;
+      }
+
+      .shap04 img {
+          margin-left: 610px;
+          width: 58px;
+      }
+
+      .shap03 img {
+          width: 225px;
+          margin-left: 283px;
+      }
+
+      h6 {
+          margin-left: 326px
+      }
+
+      h3 {
+          margin-left: 271px;
+      }
+
+      .left {
+          margin-left: -177px;
+      }
+
+      .shap06 img {
+          margin-left: 422px;
+          width: 64px;
+      }
+
+      .right {
+          margin-left: 196px;
+      }
+  }
+
+  /* RESPONSIVE IN 700PX */
+  @media (max-width: 700px) {
+      .card-bodys h6 {
+          color: white;
+          margin-top: 118px;
+          position: absolute;
+          margin-left: 208px;
+          font-size: 32px;
+      }
+
+      h1 {
+
+          position: absolute;
+          margin-top: 70px;
+          margin-left: 208px;
+      }
+
+      .card-bodys p {
+          color: white;
+          margin-top: 191px;
+          position: absolute;
+          margin-left: 208px;
+          font-size: 10px;
+      }
+
+      .shap20 img {
+          margin-top: 258px;
+          width: 54px;
+          margin-left: 542px;
+      }
+
+      .right {
+          margin-left: 115px;
+      }
+
+      .left {
+          margin-left: -235px;
+      }
+
+      .shap05 img {
+          width: 62px;
+          position: absolute;
+          margin-left: 115px;
+          margin-top: 22px;
+          margin-bottom: 31px;
+      }
+
+      .shap06 img {
+          margin-left: 359px;
+          width: 50px;
+          margin-top: 316px;
+      }
+
+      .shap04 img {
+          margin-left: 719px;
+          width: 58px;
+      }
+  }
+
+  @media (max-width: 360px) {
+      .shap03 img {
+          width: 196px;
+          margin-left: 94px;
+          height: 44px;
+      }
+
+      h6 {
+          margin-left: 136px;
+          font-size: 38px;
+          margin-top: 73px;
+      }
+
+      h3 {
+          margin-left: 107px;
+          font-size: 23px;
+          margin-top: 122px;
+      }
+
+      .shap05 img {
+          width: 62px;
+          position: absolute;
+          margin-left: 55px;
+          margin-top: -64px;
+          margin-bottom: 31px;
+      }
+
+      .ic1 img {
+          width: 29px;
+      }
+
+      .car h2 {
+          font-size: 20px;
+          position: absolute;
+          margin-top: -159px;
+          margin-left: 331px;
+      }
+
+      .car p {
+          position: absolute;
+          margin-top: -123px;
+          margin-left: 334px;
+          font-size: 10px;
+
+      }
+
+      .ic2 img {
+          width: 29px;
+          position: absolute;
+          margin-left: -60px;
+          margin-top: 16px;
+      }
+
+      h2 {
+          margin-left: -21px;
+          margin-top: 10px;
+      }
+
+      .ic3 img {
+          width: 29px;
+          position: absolute;
+          margin-left: -60px;
+          margin-top: 21px;
+      }
+
+      .right {
+          margin-left: -87px;
+      }
+
+      .left {
+          margin-left: -265px;
+      }
+
+      .card-texta {
+          font-size: 10px;
+          margin-left: -22px;
+          margin-top: 10px;
+
+      }
+
+      .shap06 img {
+          margin-left: 187px;
+          width: 39px;
+          margin-top: 331px;
+      }
+
+      .shap05 img {
+          width: 45px;
+          position: absolute;
+          margin-left: 46px;
+          margin-top: -5px;
+      }
+
+      h1 {
+          position: absolute;
+          margin-top: 70px;
+          margin-left: 208px;
+          font-size: 37px;
+      }
+
+      .card-bodys h6 {
+          color: white;
+          margin-top: 118px;
+          position: absolute;
+          margin-left: 208px;
+          font-size: 22px;
+      }
+
+      .card-bodys p {
+          color: white;
+          margin-top: 147px;
+          position: absolute;
+          margin-left: 208px;
+          font-size: 9px;
+      }
+
+      .cards2 {
+          margin-left: -21px;
+      }
+
+      .cards3 {
+          margin-left: -101px;
+          margin-top: 123px;
+      }
+
+      .cards1 {
+          margin-left: -194px;
+          margin-top: -30px;
+      }
+
+      .shap01 img {
+          width: 26px;
+          position: absolute;
+          margin-top: 31px;
+      }
+
+      .shap20 img {
+          margin-top: 258px;
+          width: 34px;
+          margin-left: 290px;
+      }
+
+  }
+
+  @media (max-width: 1028px) {
+      h1 {
+          margin-left: 118px;
+      }
+
+      .card-bodys h6 {
+          margin-left: 111px;
+      }
+
+      .card-bodys p {
+          margin-left: 111px;
+      }
+
+      .shap01 img {
+          margin-top: 39px;
+          margin-left: 22px;
+      }
+
+      .shap20 img {
+          margin-left: 895px;
+          width: 50px;
+      }
+
+      .shap03 img {
+          margin-left: 388px;
+      }
+
+      h6 {
+          margin-left: 500px;
+      }
+
+      h3 {
+          margin-left: 436px;
+      }
+
+      .left {
+          margin-left: -121px;
+      }
+
+      .right {
+          margin-left: 339px;
+      }
+
+      .shap06 img {
+          margin-left: 487px;
+      }
+
+      .shap04 img {
+          margin-left: 935px;
+      }
+  }
+
+  /* RESPONSIVE IN 768 */
+  @media (max-width: 768px) {
+      .cards1 {
+          margin-left: -51px;
+      }
+
+      .cards2 {
+          margin-left: 175px;
+      }
+
+      .cards3 {
+          margin-left: 432px;
+      }
+
+      .card-bodys p {
+          font-size: 11px;
+          margin-top: 175px;
+      }
+
+      .card-bodys h6 {
+          font-size: 33px;
+      }
+
+      .shap20 img {
+          margin-left: 672px;
+      }
+
+      .shap03 img {
+          margin-left: 310px;
+      }
+
+      h6 {
+          margin-left: 363px;
+      }
+
+      h3 {
+          margin-left: 301px;
+          margin-top: 146px;
+      }
+
+      .left {
+          margin-left: -204px;
+      }
+
+      .right {
+          margin-left: 174px;
+      }
+
+      .shap06 img {
+          margin-left: 388px;
+      }
+  }
+
+  /* RESPONSIVE IN 480 */
+  @media (max-width: 480px) {
+      .shap01 img {
+          width: 28px;
+      }
+
+      h1 {
+          color: white;
+          font-size: 49px;
+          margin-left: 70px;
+      }
+
+      .card-bodys h6 {
+          margin-left: 66px;
+          font-size: 27px;
+      }
+
+      .card-bodys p {
+          margin-left: 66px;
+      }
+      .cards1 {
+        margin-left: -27px;
+      }
+      .cards2 {
+        margin-left: 178px;
+      }
+
+      .cards3 {
+          margin-left: 94px;
+          margin-top: 182px;
+      }
+
+      .boxe {
+          background-color: #668c00;
+          width: 100%;
+          height: 454px;
+      }
+
+      .shap20 img {
+          margin-left: 381px;
+      }
+
+      .shap05 img {
+          width: 62px;
+          position: absolute;
+          margin-left: 66px;
+      }
+
+      .shap03 img {
+          margin-left: 166px;
+      }
+
+     
+
+      .ic1 img {
+          width: 28px;
+          position: absolute;
+          margin-left: 243px;
+      }
+
+      .ic2 img {
+          margin-left: -46px;
+          width: 28px;
+      }
+
+      .ic3 img {
+          width: 28px;
+          margin-left: -117px;
+      }
+
+      .car h2 {
+          font-size: 19px;
+          margin-left: 287px;
+      }
+
+      .car1 {
+          font-family: 'Amatic SC', cursive;
+          margin-left: 293px;
+      }
+
+      .car p {
+          margin-left: 285px;
+          font-size: 12px;
+      }
+
+      .car2 {
+          margin-left: 291px;
+      }
+
+      .ic3 img {
+          width: 28px;
+          margin-left: -45px;
+      }
+
+      .car1 p {
+          font-size: 12px;
+      }
+
+      .car2 p {
+          font-size: 12px;
+      }
+
+      .right {
+          margin-left: 23px;
+      }
+
+      .shap06 img {
+          margin-left: 251px;
+          width: 34px;
+          margin-top: 197px;
+      }
+      .shap04 img {
+        margin-left: 402px;
+        width: 52px;
+      }
+  }

@@ -1,0 +1,21 @@
+.btn-00 {
+    background-color: #f5802f;
+    width: 88px;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+    margin-left: 5px;
+}
+.btn-00 :hover{
+    color: white;
+}
+.btn-001 {
+    width: 30px;
+    background: black;
+    text-align: center;
+    color: white;
+    height: 25px;
+  }
+  .btn-001 :hover{
+    color: white;
+  }
